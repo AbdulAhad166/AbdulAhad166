@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abdulahad162005@gamil.com**
 
-- 📄 Know about my experiences [Generative Al Intern,Machine Learning Intern in Smartbridge](Generative Al Intern,Machine Learning Intern in Smartbridge)
+- 📄 Know about my experiences (Generative Al Intern,Machine Learning Intern in Smartbridge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
