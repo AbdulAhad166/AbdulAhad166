@@ -1,11 +1,3 @@
-/*
-Title: git_hub_readme_file_2025-12-13T03-36-31-459Z.txt
-Description: 
-Date: 12/13/2025, 9:06:31 AM
-*/
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdul Ahad&label=Profile%20Views&color=0e75b6&style=flat)
-
 # 💫 About Me:
 Hi, I’m Abdul Ahad 👋<br>🔹 Engineer passionate about building impactful software.<br>🔹 Exploring Full Stack Development, Python <br>🔹 Always curious—whether it’s   APIs, or automation.<br>🔹 Building software that makes life easier.🔹 Believe in “learning by building” – every project is a stepping stone.<br>💡 Currently:<br>Sharpening problem-solving skills for coding challenges.<br>✨ Beyond code:<br>I enjoy exploring tech trends and sharing knowledge
 
@@ -20,6 +12,6 @@ Hi, I’m Abdul Ahad 👋<br>🔹 Engineer passionate about building impactful s
 ![](https://nirzak-streak-stats.vercel.app/?user=AbdulAhad&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdul Ahad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
